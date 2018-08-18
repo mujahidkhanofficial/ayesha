@@ -102,7 +102,7 @@ return $result;
 }
 ?>
 <div id="footer">
-Active Bot Users<font color="yellow"> <?php include 'user.php';?> </font></br>
+Active Users<font color="yellow"> <?php include 'user.php';?> </font></br>
 Made By <a target="_blank" href="https://m.facebook.com/100024199802871">Mujahid</a></br></div>
 </body>
 </html>
