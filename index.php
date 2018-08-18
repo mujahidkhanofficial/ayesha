@@ -2,7 +2,7 @@
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<title>MUJAHID - Gangster™</title>
+<title>MUJJU | ASHI™</title>
 <link rel="stylesheet" type="text/css" href="stylesheet.css" media="all,handheld"/>
 <link rel="stylesheet" type="text/css" href="table.css" media="all,handheld"/>
 <link href="https://fonts.googleapis.com/css?family=Bungee+Shade|Monoton|Nova+Square" rel="stylesheet"/>
@@ -68,7 +68,7 @@ echo'
 <div id="header"><script src="header.js"></script><hr></div>
 <div id="profile">
 <div class="css">
-<img src="https://graph.facebook.com/100026011900402/picture?type=large" alt="" style="border-radius: 100%; border: 2px solid white;" width="200" height="200" title="Visit admin Profile"/>&nbsp<img src="https://graph.facebook.com/100024480347728/picture?type=large" alt="" style="border-radius: 100%; border: 2px solid white;" width="200" height="200" title="Visit admin Profile"/></div></div></br>
+<img src="https://graph.facebook.com/100026011900402/picture?type=large" alt="" style="border-radius: 100%; border: 2px solid white;" width="100" height="100" title="Visit admin Profile"/>&nbsp<img src="https://graph.facebook.com/100024480347728/picture?type=large" alt="" style="border-radius: 100%; border: 2px solid white;" width="100" height="100" title="Visit admin Profile"/></div></div></br>
 <div id="center">
 <a href="https://www.fbtoken.cf/" target=_blank"><input class="button" type="button" value="Get iPhone Token"></a></br></br>
 
